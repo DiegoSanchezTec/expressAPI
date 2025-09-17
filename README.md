@@ -1,6 +1,7 @@
 creé el framework desde la terminal con
 
 npm init -y
+
 npm install express
 
 luego creé el archivo de server.js que es en donde está toda la magia
